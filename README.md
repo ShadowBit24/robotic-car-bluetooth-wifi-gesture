@@ -1,25 +1,46 @@
 # Bluetooth / WiFi / Gesture-Controlled Robotic Car
 
 
+
+
 B.Sc. project, American International University-Bangladesh (AIUB).
+
+
 
 
 ## Overview
 
 
+
+
 A motor-driven robotic car built around a microcontroller, controllable three ways: from a phone over Bluetooth, over WiFi, and by hand gestures.
+
+
 
 
 ## The build
 
+
 ![Robotic car — top view](robotic-car-photo-1.jpg)
 
+
 ![Robotic car — wiring detail](robotic-car-photo-2.jpg)
+
+
+![Robotic car — mid-build on the bench](robotic-car-photo-3.jpg)
+
+
+Mid-build on the bench — chassis, motors, and Uno going together.
+
 
 Arduino Uno on a 4WD acrylic chassis, breadboard prototyping, HC-05 Bluetooth module visible centre-board.
 
 
+
+
 ## Hardware
+
+
 
 
 - Microcontroller board
@@ -29,7 +50,11 @@ Arduino Uno on a 4WD acrylic chassis, breadboard prototyping, HC-05 Bluetooth mo
 - Gesture sensing
 
 
+
+
 ## What I did
+
+
 
 
 - Selected and wired the full hardware stack (motors, driver, power, comms modules)
@@ -37,13 +62,21 @@ Arduino Uno on a 4WD acrylic chassis, breadboard prototyping, HC-05 Bluetooth mo
 - End-to-end bring-up, integration, and debugging of the complete system
 
 
+
+
 ## Skills demonstrated
+
+
 
 
 Embedded firmware · motor control · wireless communication (Bluetooth / WiFi) · hardware integration & debugging
 
 
+
+
 ## Repository note
+
+
 
 
 This repository holds the project documentation. The original source code was kept on a university lab machine and is not preserved; the design, hardware, and results are documented here.
